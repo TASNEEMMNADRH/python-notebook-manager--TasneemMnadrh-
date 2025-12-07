@@ -5,7 +5,7 @@
 #This is a Python console-based notebook application.
 You can add, view, search, filter, edit, delete and sort notes.
 
-# How to run
+#How to run:
 Use the menu and choosing a number from the options:
 (1) Add a new note
 (2) List all notes
@@ -15,5 +15,6 @@ Use the menu and choosing a number from the options:
 (6) Delete a note
 (7) Sort notes
 (0) Exit
+
 
 
